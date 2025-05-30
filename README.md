@@ -2,7 +2,7 @@
 ### Problem Solutioning
 #### Problems
 Write a program called Count Words that processes a List of Strings and applies the following rules:
-1. counts and return number of words that start with M or m
+1. counts and return number of words that start with uppercase
 2. return all the words longer that 5 characters
 
 Hints:
@@ -41,7 +41,7 @@ solution:
 1. clone this repository
 2. type `mvn clean pacage` on your terminal or mvn project
 3. go to target file
-4. run `java -jar CountWords-1.0-SNAPSHOT.jar`
+4. run `java -jar WordRule-1.0-SNAPSHOT.jar`
 ```
 ### Project Structure
 ```
