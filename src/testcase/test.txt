@@ -1,0 +1,3 @@
+Hello there! This is a Simple text File. It contains Several Words that Start with Uppercase letters. For example: Apple, Banana, Zebra, and Python.
+
+This file also contains some longer words, such as Programming, Development, Architecture, and Documentation.
